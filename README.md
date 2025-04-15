@@ -3,17 +3,13 @@
 [//]: <> ( todo udpate image and add new docker commands, tell about interfaces )
 
 
-Starter kit for API with 
+Kino_uz 
 [Symfony](https://symfony.com/), 
 [Doctrine](https://www.doctrine-project.org/), 
 [Maker Bundle](https://symfony.com/doc/current/bundles/SymfonyMakerBundle/index.html), 
 [Migrations Bundle](https://symfony.com/doc/current/bundles/DoctrineMigrationsBundle/index.html), 
 [Api-Platform](https://api-platform.com/) and 
 [JWT-auth](https://jwt.io/). 
-
-Kit has also already created User entity with all crud routes
-
-Kit has 3 docker containers: **php, nginx** and **mysql** 
 
 ![poster](poster.png)
 ## Installation
