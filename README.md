@@ -1,4 +1,4 @@
-# Api Starter Kit
+# Kino_uz
 
 [//]: <> ( todo udpate image and add new docker commands, tell about interfaces )
 
